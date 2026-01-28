@@ -26,7 +26,7 @@ SEO対策、SNSの投稿なども行いPVを増やすための工夫を行い、
 
 ２度の審査を経てGoogleAdsenseに合格し広告の掲載を開始しましたが、合格したころには文化祭のピークである9月~11月の大半が過ぎており引き出し下限額である8000円に到達することはできませんでした。
 
-![Untitled](Untitled.png)
+![Googleアナリティクス](img/aifes-google-analytics.png)
 
 ### まとめ
 
